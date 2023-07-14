@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ItemManager/static/css/main.5bf65e35.css",
+    "main.js": "/ItemManager/static/js/main.2b939f24.js",
+    "index.html": "/ItemManager/index.html",
+    "main.5bf65e35.css.map": "/ItemManager/static/css/main.5bf65e35.css.map",
+    "main.2b939f24.js.map": "/ItemManager/static/js/main.2b939f24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bf65e35.css",
+    "static/js/main.2b939f24.js"
+  ]
+}
